@@ -1,0 +1,7 @@
+{
+  "name": "Live Study Monitoring App",
+  "description": "A real-time learning guidance system that uses heart rate data to monitor mental regulation and provide supportive study suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
